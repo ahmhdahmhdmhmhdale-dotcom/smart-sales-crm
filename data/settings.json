@@ -1,0 +1,26 @@
+{
+  "companyName": "إرشاد للنشر والتوزيع",
+  "businessType": "المبيعات وخدمة العملاء",
+  "logoUrl": "/uploads/1787122630818-WhatsApp_Image_2026-08-15_at_3.30.58_PM.jpeg",
+  "primaryColor": "#f29d63",
+  "currency": "EGP",
+  "tax": 0,
+  "shipping": 0,
+  "pageId": "122115984309373471",
+  "pageAccessToken": "",
+  "verifyToken": "creative_kids_2026",
+  "appSecret": "",
+  "graphVersion": "v26.0",
+  "instagramAccountId": "",
+  "whatsappPhoneNumberId": "",
+  "whatsappAccessToken": "",
+  "whatsappBusinessAccountId": "",
+  "whatsappEnabled": false,
+  "autoReplyEnabled": true,
+  "quickReplies": [
+    "أهلاً وسهلاً ❤️ كيف يمكننا مساعدتك؟",
+    "ابعتلنا اسم المنتج ونرسل لك السعر والتفاصيل.",
+    "ابعتلنا المحافظة لمعرفة تكلفة الشحن ومدة التوصيل.",
+    "تمام ❤️ ابعتلنا الاسم والعنوان ورقم الهاتف لتأكيد الطلب."
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "primary-manager",
+    "name": "المدير الرئيسي",
+    "username": "admin",
+    "role": "مدير",
+    "status": "نشط",
+    "createdAt": "2026-08-19T07:08:29.857Z",
+    "shift": "",
+    "orders": 0,
+    "sales": 0,
+    "avg": "-",
+    "isPrimaryManager": true,
+    "passwordHash": "scrypt:b3789397b1e939e0515cb9d157fc2df2:471ddbdac9117150ced7a3268d9887bd8eda4435c593f5712f4e372fcaad135b8b62f19652a210ae70273c08aaaf1a8c70f962993e27da47b74fdf67bab198ab"
+  },
+  {
+    "id": 1,
+    "name": "احمد",
+    "username": "employee1",
+    "role": "موظف مبيعات",
+    "status": "نشط",
+    "createdAt": "2026-08-19T07:08:29.856Z",
+    "shift": "",
+    "orders": 0,
+    "sales": 0,
+    "avg": "-",
+    "passwordHash": "scrypt:ad43a465cfe988cfb0d991073abee033:a83b09025bcb47aec25fa80359c7feb117f88e5127b6da3549824ac1f042e9dce6ca14018ae22fadffc1c155505fe515c1b2bba1955e5f43938c2eb47f575c35"
+  },
+  {
+    "id": 2,
+    "name": "موظف 2",
+    "username": "employee2",
+    "role": "موظف مبيعات",
+    "status": "غير متصل",
+    "createdAt": "2026-08-19T07:08:29.857Z",
+    "shift": "",
+    "orders": 0,
+    "sales": 0,
+    "avg": "-",
+    "password": "123456"
+  },
+  {
+    "id": 3,
+    "name": "موظف 3",
+    "username": "employee3",
+    "role": "موظف مبيعات",
+    "status": "غير متصل",
+    "createdAt": "2026-08-19T07:08:29.857Z",
+    "shift": "",
+    "orders": 0,
+    "sales": 0,
+    "avg": "-",
+    "password": "123456"
+  },
+  {
+    "id": 4,
+    "name": "موظف 4",
+    "username": "employee4",
+    "role": "موظف مبيعات",
+    "status": "غير متصل",
+    "createdAt": "2026-08-19T07:08:29.857Z",
+    "shift": "",
+    "orders": 0,
+    "sales": 0,
+    "avg": "-",
+    "password": "123456"
+  }
+]
